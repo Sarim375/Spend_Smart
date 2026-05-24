@@ -1,0 +1,25 @@
+## Build outputs
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+[Tt]emp/
+
+## User-specific files
+*.user
+*.userprefs
+*.suo
+*.userosscache
+*.sln.docstates
+
+## IDEs
+.vs/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+## OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
